@@ -27,7 +27,7 @@ neue Nutzungsformen von Medien.
 IT-Entwicklung sollte sich daher auch an
 den [Bedürfnissen](#bedarfsermittlung) von [Nutzenden](#einbeziehung) ausrichten.
 
-## Nutzer\*innenorientierten Gestaltung
+## Nutzer\*innenorientierte Gestaltung
 
 Nutzer\*innenorientierte Gestaltung heißt, die Bedürfnisse von Nutzenden
 in den gesamten Entwicklungsprozess einzubeziehen. Das bedeutet, dass
@@ -388,7 +388,7 @@ möglichst großen Bandbreite des späteren Systems.
 
 Erste Prototypen müssen dabei noch nicht zwingend programmiert werden,
 sondern können durch entsprechende Prototyping Software, wie
-[Figma](https://www.figma.com) oder
+[Figma](https://www.figma.com), [Penpot](https://penpot.app/) oder
 [Axure](https://www.axure.com), umgesetzt werden. Diese
 besitzen eine Art Bausystem für Interfaces mit mehreren Ansichten, die
 über Aktionen wie den Klick auf einen Button verbunden werden können. So
